@@ -1,11 +1,11 @@
 # Knowledge-enriched Text Generation Reading-List
 
 Here is a list of recent papers about **Knowledge-enhanced text generation**.
-(Update on **Oct. 7th, 2020**)
+(Last Update on **Oct. 7th, 2020**)
 
-## What's New
+## Survey paper
 
-We release a new survey paper [A Survey of knoweldge-enhanced Text Generation](). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). arXiv. 20xx.xxxx
+[A Survey of knoweldge-enhanced Text Generation](). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). arXiv. 20xx.xxxx
 
 ## Basic Seq2Seq papers and codes
 - [Seq2Seq] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf), In NeurIPS 2014.
@@ -30,15 +30,15 @@ We release a new survey paper [A Survey of knoweldge-enhanced Text Generation]()
 
 
 ## Knowledge graph-enhanced text generation
-- [Scientific Writing] [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/pdf/1904.02342.pdf), In NAACL 2018. \[[code & data](https://github.com/rikdz/GraphWriter)\]
+- [Scientific Writing] [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/pdf/1904.02342.pdf), In NAACL 2018. \[[code](https://github.com/rikdz/GraphWriter)\]
 
-- [Scientific Writing] [Topic Aware Neural Response Generation](https://arxiv.org/pdf/1905.07870.pdf), In ACL 2019. \[[code & data](https://github.com/EagleW/PaperRobot)\]
+- [Scientific Writing] [Topic Aware Neural Response Generation](https://arxiv.org/pdf/1905.07870.pdf), In ACL 2019. \[[code](https://github.com/EagleW/PaperRobot)\]
 
 - todo ...
 
 
 ## Grounded text-enhanced text generation
-- [Dialogue System] [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/pdf/1811.01241.pdf), In ICLR 2019. \[[code & data](https://github.com/facebookresearch/ParlAI/tree/master/projects/wizard_of_wikipedia)\]
+- [Dialogue System] [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/pdf/1811.01241.pdf), In ICLR 2019. \[[code](https://github.com/facebookresearch/ParlAI/tree/master/projects/wizard_of_wikipedia)\]
 
 
 ## Citation
