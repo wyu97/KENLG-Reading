@@ -34,6 +34,8 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 	- Mike Lewis (Facebook AI) et al, On arXiv 2019. \[[fairseq](https://github.com/pytorch/fairseq)\](pytorch) \[[huggingface](https://github.com/huggingface/transformers/tree/master/examples/seq2seq)\](pytorch)
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> [T5] [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
 	- Colin Raffel (Google) et al, In JMLR 2020. \[[official code](https://github.com/google-research/text-to-text-transfer-transformer)\](tensorflow) \[[huggingface](https://github.com/huggingface/transformers/tree/master/examples/seq2seq)\](pytorch)
+- <img src="images/code.png" width="20" align=center> [Question Answering] [TAPAS: Weakly Supervised Table Parsing via Pre-training.](https://www.aclweb.org/anthology/2020.acl-main.398.pdf)  
+	- Jonathan Herzig1 (Google) et al, in ACL 2020. [[official code]](https://github.com/google-research/tapas#how-to-cite-tapas) (tensorflow) [[Video]](https://www.youtube.com/watch?v=cIUtRNhY6Rw&ab_channel=YannicKilcher)
 
 ## Controllable generation leanrng methods
 - <img src="images/hot.png" width="20" align=center>  [Posterior Regularization] [Deep Generative Models with Learnable Knowledge Constraints](http://papers.nips.cc/paper/8250-deep-generative-models-with-learnable-knowledge-constraints.pdf)
@@ -60,7 +62,9 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 	- Xiangpeng Wei (Chinese Academy of Sciences) et al, In AAAI 2019.
 - [Topic Transfer] [A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features](https://www.aclweb.org/anthology/D19-1513.pdf)
 	- Hongyin Tang (Chinese Academy of Sciences) et al, In EMNLP 2019.
-
+- <img src="images/code.png" width="20" align=center>[Paper Generation] [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://www.aclweb.org/anthology/P19-1191.pdf)
+	- Qingyun Wang (UIUC) et al, in ACL 2019. [[Official code]](https://github.com/EagleW/PaperRobot)(Pytorch) [[Sample Output]](https://eaglew.github.io/PaperRobot/) [[Poster]](https://eaglew.github.io/files/paperrobot_poster.pdf)
+ 
 ## Keyword-enhanced text generation
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> [Dialogue System] [Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation](https://arxiv.org/pdf/1607.00970.pdf)
 	- Lili Mou (Peking University) et al, In COLING 2016. \[[code](https://github.com/MaZhiyuanBUAA/Seq2BFforDialogueGeneration)\](tensorflow)
@@ -100,6 +104,8 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 	- Hayate Iso (Nara Institute of Science and Technology) et al, In ACL 2020. \[[code](https://github.com/isomap/factedit)\]
 - [Summarization] [Exploring Human-Like Reading Strategy for Abstractive Text Summarization](https://www.aaai.org/ojs/index.php/AAAI/article/view/4724)
 	- Min Yang (Chinese Academy of Sciences) et al, In AAAI 2019.
+- <img src="images/code.png" width="20" align=center> [Table-to-text] [Describing a Knowledge Base](https://www.aclweb.org/anthology/W18-6502.pdf)
+	- Qingyun Wang (UIUC) et al, in INLG 2018. [[Official code]](https://github.com/EagleW/Describing_a_Knowledge_Base) (pytorch) [[Slides]](https://eaglew.github.io/files/Wikipedia.pdf)
 
 ## Knowledge graph-enhanced text generation
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> [Dialogue System] [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/Proceedings/2018/0643.pdf)
