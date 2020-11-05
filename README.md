@@ -137,8 +137,7 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 - [Summarization] [Incorporating Commonsense Knowledge into Abstractive Dialogue Summarization via Heterogeneous Graph Networks](https://arxiv.org/abs/2010.10044)
 	- Xiachong Feng (Harbin Institute of Technology) et al, On arXiv 2020.
 
-## Open knowledge graph-enhanced text generation
-## (Knowledge graph constructed by OpenIE)
+## Open knowledge graph-enhanced text generation <br> (Knowledge graph constructed by OpenIE)
 - [Question Answering] [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs](https://arxiv.org/abs/1910.08435)
 	- Angela Fan (Facebook AI Research) et al, In EMNLP 2019.
 - <img src="images/code.png" width="20" align=center> [Summarization] [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://arxiv.org/abs/2005.01159)
