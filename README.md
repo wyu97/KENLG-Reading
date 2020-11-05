@@ -11,7 +11,7 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 
 [A Survey of knoweldge-enhanced Text Generation](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). arXiv. 2010.04389
 
-> To the best of our knowledge, our survey is the first work that presents a comprehensive reviewof knowledge-enhanced text generation. It aims to provide NLG researchers a synthesis and pointerto related researches. Our survey also includes a detailed discussion about how NLG can benefit from recent progress in deep learning and artificial intelligence, including technologies such asgraph neural network, reinforcement learning, neural topic modeling and so on.
+> To the best of our knowledge, our survey is the first work that presents a comprehensive reviewof knowledge-enhanced text generation. It aims to provide NLG researchers a synthesis and pointer to related researches. Our survey also includes a detailed discussion about how NLG can benefit from recent progress in deep learning and artificial intelligence, including technologies such as graph neural network, reinforcement learning, neural topic modeling and so on.
 
 ## Basic NLG papers and codes
 (For new learners, some important papers for general NLG/KENLG.)
