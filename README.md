@@ -194,13 +194,13 @@ unsup_gen_for_cms_reasoning)
 	- Lianhui Qin (University of Washington) et al, In ACL 2019. [\[pdf\]](https://arxiv.org/abs/1906.02738) [\[code (torch)\]](https://github.com/qkaren/converse_reading_cmr)
 - <img src="images/code.png" width="20" align=center> **[Dialogue System] RefNet: A Reference-aware Network for Background Based Conversation** 
 	- Chuan Meng (Shandong University) et al, In AAAI 2020. [\[pdf\]](https://arxiv.org/abs/1908.06449) [\[code (tf)\]](https://github.com/ChuanMeng/RefNet)
-- <img src="images/code.png" width="20" align=center> [Dialogue System] **Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation** 
+- <img src="images/code.png" width="20" align=center> **[Dialogue System] Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation** 
 	- Pengjie Ren (University of Amsterdam) et al, In AAAI 2020. [\[pdf\]](https://arxiv.org/abs/1908.09528) [\[code (torch)\]](https://github.com/PengjieRen/GLKS)
-- <img src="images/code.png" width="20" align=center> [Dialogue System] **Knowledge-Grounded Dialogue Generation with Pre-trained Language Models** 
+- <img src="images/code.png" width="20" align=center> **[Dialogue System] Knowledge-Grounded Dialogue Generation with Pre-trained Language Models** 
 	- Xueliang Zhao (Wangxuan Institute of Computer Technology) et al, In EMNLP 2020. [\[pdf\]](https://arxiv.org/abs/2010.08824) [\[code (torch)\]](https://github.com/zhaoxlpku/KnowledGPT)
-- <img src="images/code.png" width="20" align=center> [Dialogue System] **Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation** 
+- <img src="images/code.png" width="20" align=center> **[Dialogue System] Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation** 
 	- Xiuyi Chen (Chinese Academy of Sciences) et al, In EMNLP 2020. [\[pdf\]](https://arxiv.org/abs/2010.08824) [\[code\]](https://github.com/youngornever/bridge_latent_knowledge_selection_gap_for_conversation)
-- <img src="images/code.png" width="20" align=center> [Dialogue System] **Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation** 
+- <img src="images/code.png" width="20" align=center> **[Dialogue System] Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation** 
 	- Chujie Zheng (Tsinghua University) et al, In EMNLP findings 2020. [\[pdf\]](https://arxiv.org/abs/2009.09378) [\[code (torch)\]](https://github.com/chujiezheng/DiffKS)
 - **[Question Answering] Generating Well-Formed Answers by Machine Reading with Stochastic Selector Networks** 
 	- Bin Bi (Alibaba) et al, In AAAI 2020. [\[pdf\]](https://aaai.org/ojs/index.php/AAAI/article/view/6238)
