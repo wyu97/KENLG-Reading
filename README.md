@@ -23,6 +23,7 @@ We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]
 
 - <img src="images/hot.png" width="20" align=center> **[Seq2Seq] Sequence to Sequence Learning with Neural Networks**
 	- Ilya Sutskever (Google) et al, In NeurIPS 2014. [\[pdf\]](https://arxiv.org/pdf/1409.3215.pdf)
+
 - <img src="images/hot.png" width="20" align=center> **[SeqAttn] Neural Machine Translation by Jointly Learning to Align and Translate** 
 	- Dzmitry Bahdanau (Jacobs University) et al, In ICLR 2015. [\[pdf\]](https://arxiv.org/pdf/1409.0473.pdf)
 - <img src="images/hot.png" width="20" align=center> **[CopyNet] Incorporating Copying Mechanism in Sequence-to-Sequence Learning** 
@@ -35,6 +36,7 @@ We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]
 ## Pretrained language generation models
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center>  **[GPT-2] Language Models are Unsupervised Multitask Learners** 
 	- Alec Radford (OpenAI) et al, OpenAI 2019. [\[pdf\]](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [\[official code (tf)\]](https://github.com/openai/gpt-2/blob/master/src/model.py) [\[huggingface (torch)\]](https://github.com/huggingface/transformers/tree/master/examples/language-modeling)
+
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[UniLM] Unified Language Model Pre-training for Natural Language Understanding and Generation** 
 	- Li Dong (Microsoft) et al, In NeurIPS 2019. [\[pdf\]](https://arxiv.org/abs/1905.03197) [\[official code (torch)\]](https://github.com/microsoft/unilm)
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[BART] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**
@@ -45,6 +47,7 @@ We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]
 ## Controllable generation leanrng methods
 - <img src="images/hot.png" width="20" align=center>  **[Posterior Regularization] Deep Generative Models with Learnable Knowledge Constraints** 
 	- Zhiting Hu (Carnegie Mellon University) et al, In NeurIPS 2018. [\[pdf\]](http://papers.nips.cc/paper/8250-deep-generative-models-with-learnable-knowledge-constraints.pdf)
+
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Plug and Play] Plug and Play Language Models: A Simple Approach to Controlled Text Generation**
 	- Sumanth Dathathri (Uber AI) et al, In ICLR 2020. [\[pdf\]](https://arxiv.org/abs/1912.02164) [\[code (torch)\]](https://github.com/uber-research/PPLM)
 unsup_gen_for_cms_reasoning)
@@ -53,10 +56,10 @@ unsup_gen_for_cms_reasoning)
 - <img src="images/code.png" width="20" align=center> **[Weakly Supervision] Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach** 
 	- Bowen Tan (Carnegie Mellon University) et al, In EMNLP 2020. [\[pdf\]](https://arxiv.org/abs/2010.06792) [\[code (torch)\]](https://github.com/tanyuqian/aspect-based-summarization)
 
-
 ## Topic-enhanced text generation
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] Topic Aware Neural Response Generation**
 	- Chen Xing (Nankai University) et al, In AAAI 2017. [\[pdf\]](https://arxiv.org/pdf/1606.08340.pdf)
+
 - <img src="images/code.png" width="20" align=center> **[Dialogue System] A Neural TopicalExpansion Framework for Unstructured Persona-oriented Dialogue Generation**
 	- Minghong Xu (Shandong University) et al, In ECAI 2020. [\[pdf\]](https://arxiv.org/abs/2002.02153) [\[code (tf)\]](https://github.com/Minghong-Xu/Neural_Topical_Expansion_for_UPDS)
 - **[Dialogue System] Context-Controlled Topic-Aware Neural Response Generation for Open-Domain Dialog Systems**
@@ -71,7 +74,6 @@ unsup_gen_for_cms_reasoning)
 	- Peng Cui (Harbin Institute of Technology) et al, In COLING 2020. [\[pdf\]](https://arxiv.org/abs/2010.06253)
 - <img src="images/code.png" width="20" align=center> **[Summarization] [A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features]**
 	- Zhengjue Wang (Xidian University) et al, In EMNLP 2020. [\[pdf\]]((https://www.aclweb.org/anthology/2020.emnlp-main.35.pdf)) [\[code\]](https://github.com/BoChenGroup/TA)
-
 - **[Machine Translation] Topic-Informed Neural Machine Translation**
 	- Jian Zhang, (Dublin City University) et al, In COLING 2016. [\[pdf\]](https://www.aclweb.org/anthology/C16-1170.pdf)
 - **[Machine Translation] Translating with Bilingual Topic Knowledge for Neural Machine Translation**
@@ -83,6 +85,7 @@ unsup_gen_for_cms_reasoning)
 ## Keyword-enhanced text generation
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation** 
 	- Lili Mou (Peking University) et al, In COLING 2016. [\[pdf\]](https://arxiv.org/pdf/1607.00970.pdf) [\[code (tf)\]](https://github.com/MaZhiyuanBUAA/Seq2BFforDialogueGeneration)
+
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory**
 	- Hao Zhou (Tsinghua University) et al, In AAAI 2018. [\[pdf\]](https://arxiv.org/abs/1704.01074) [\[code (tf)\]](https://github.com/loadder/ECM-tf)
 - <img src="images/hot.png" width="20" align=center> **[Dialogue System] Generating Responses with a Specific Emotion in Dialog**
@@ -99,6 +102,7 @@ unsup_gen_for_cms_reasoning)
 ## Knowledge base-enhanced text generation
 - <img src="images/hot.png" width="20" align=center> **[Question Answering] [Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning]** 
 	- Shizhu He (Chinese Academy of Sciences) et al, In ACL 2017. [\[pdf\]](https://www.aclweb.org/anthology/P17-1019.pdf)
+
 - **[Question Answering] Natural answer generation with heterogeneous memory**
 	- Yao Fu (Peking University) et al, In NAACL 2018. [\[pdf\]](https://www.aclweb.org/anthology/P17-1019.pdf)
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems**
@@ -125,6 +129,7 @@ unsup_gen_for_cms_reasoning)
 ## Knowledge graph-enhanced text generation
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] Commonsense Knowledge Aware Conversation Generation with Graph Attention** 
 	- Hao Zhou (Tsinghua University) et al, In IJCAI 2018. [\[pdf\]](https://www.ijcai.org/Proceedings/2018/0643.pdf) [\[code1 (tf)\]](https://github.com/thu-coai/ccm) [\[code2 (torch)\]](https://github.com/Lyusungwon/CCM-pytorch)
+
 - **[Dialogue System] Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs** 
 	- Zhibin Liu,  (Baidu) et al, In EMNLP 2019. [\[pdf\]](https://arxiv.org/abs/1903.10245)
 - <img src="images/code.png" width="20" align=center> **[Dialogue System] DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs**
@@ -166,6 +171,7 @@ unsup_gen_for_cms_reasoning)
 ## Open knowledge graph-enhanced text generation <br> (Knowledge graph constructed by OpenIE)
 - **[Question Answering] Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs** 
 	- Angela Fan (Facebook AI Research) et al, In EMNLP 2019. [\[pdf\]](https://arxiv.org/abs/1910.08435)
+
 - <img src="images/code.png" width="20" align=center> **[Summarization] Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward** 
 	- Luyang Huang (Northeastern University) et al, In ACL 2020. [\[pdf\]](https://arxiv.org/abs/2005.01159) [\[code (torch)\]](https://github.com/luyang-huang96/GraphAugmentedSum)
 - **[Summarization] Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph** 
@@ -177,6 +183,7 @@ unsup_gen_for_cms_reasoning)
 ## Grounded text-enhanced text generation
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] A Knowledge-Grounded Neural Conversation Model**
 	- Marjan Ghazvininejad (University of Southern California) et al, In AAAI 2018. [\[pdf\]](https://arxiv.org/abs/1702.01932) [\[data\]](https://github.com/mgalley/DSTC7-End-to-End-Conversation-Modeling)
+
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] Wizard of Wikipedia: Knowledge-Powered Conversational agents** 
 	- Emily Dinan (Facebook AI Research) et al, In ICLR 2019. [\[pdf\]](https://arxiv.org/pdf/1811.01241.pdf) [\[code (torch)\]](https://github.com/facebookresearch/ParlAI/tree/master/projects/wizard_of_wikipedia)
 - <img src="images/code.png" width="20" align=center> **[Dialogue System] Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue** 
@@ -207,6 +214,7 @@ unsup_gen_for_cms_reasoning)
 ## Knowledge-enhanced pretraining
 - <img src="images/code.png" width="20" align=center> **[KG + LM] A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation**
 	- Jian Guan (Tsinghua University) et al, In TACL 2020. [\[pdf\]](https://arxiv.org/abs/1906.05012) [\[code (tf)\]](https://github.com/JianGuanTHU/CommonsenseStoryGen)
+
 - <img src="images/code.png" width="20" align=center> **[Commonsense + LM] Abductive Commonsense Reasoning** 
 	- Chandra Bhagavatula (Allen Institute for AI) et al, In ICLR 2020. [\[pdf\]](https://arxiv.org/abs/1908.05739) [\[code (torch)\]](https://github.com/allenai/abductive-commonsense-reasoning)
 - <img src="images/code.png" width="20" align=center> **[Table + LM] TAPAS: Weakly Supervised Table Parsing via Pre-training** 
