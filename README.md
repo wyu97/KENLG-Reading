@@ -15,7 +15,7 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 
 ## <img src="images/new.png" width="25" align=center> Tutorial
 
-We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]() in [EMNLP 2021](https://2021.emnlp.org/) (Nov. 7th - Nov. 11th, 2021, Dominican Republic).  
+We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]() in [EMNLP 2021](https://2021.emnlp.org/). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
 
 
 ## Basic NLG papers and codes
@@ -179,7 +179,7 @@ unsup_gen_for_cms_reasoning)
 - <img src="images/code.png" width="20" align=center> **[Dialogue System] Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue** 
 	- Byeongchang Kim (Seoul National University) et al, In ICLR 2020. [\[pdf\]](https://arxiv.org/abs/2002.07510) [\[code (tf)\]](https://github.com/bckim92/sequential-knowledge-transformer)
 - **[Dialogue System] DeepCopy: Grounded Response Generation with Hierarchical Pointer Networks** 
-	- Semih Yavuz (University of California, Santa Barbara) et al, In SIGDIAL 2019. (https://arxiv.org/abs/1908.10731)
+	- Semih Yavuz (University of California, Santa Barbara) et al, In SIGDIAL 2019. [\[pdf\]](https://arxiv.org/abs/1908.10731)
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Dialogue System] Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading** 
 	- Lianhui Qin (University of Washington) et al, In ACL 2019. [\[pdf\]](https://arxiv.org/abs/1906.02738) [\[code (torch)\]](https://github.com/qkaren/converse_reading_cmr)
 - <img src="images/code.png" width="20" align=center> **[Dialogue System] RefNet: A Reference-aware Network for Background Based Conversation** 
