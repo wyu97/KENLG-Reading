@@ -15,7 +15,7 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 
 ## <img src="images/new.png" width="25" align=center> Tutorial
 
-We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]() in [EMNLP 2021](https://2021.emnlp.org/). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
+We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]() in [**EMNLP 2021**](https://2021.emnlp.org/). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
 
 
 ## Basic NLG papers and codes
@@ -69,6 +69,9 @@ unsup_gen_for_cms_reasoning)
 	- Xiyan Fu (Nankai Univeristy) et al, In AAAI 2020. [\[pdf\]](https://aaai.org/ojs/index.php/AAAI/article/view/6277)
 - **[Summarization] A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features**
 	- Peng Cui (Harbin Institute of Technology) et al, In COLING 2020. [\[pdf\]](https://arxiv.org/abs/2010.06253)
+- <img src="images/code.png" width="20" align=center> **[Summarization] [A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features]**
+	- Zhengjue Wang (Xidian University) et al, In EMNLP 2020. [\[pdf\]]((https://www.aclweb.org/anthology/2020.emnlp-main.35.pdf)) [\[code\]](https://github.com/BoChenGroup/TA)
+
 - **[Machine Translation] Topic-Informed Neural Machine Translation**
 	- Jian Zhang, (Dublin City University) et al, In COLING 2016. [\[pdf\]](https://www.aclweb.org/anthology/C16-1170.pdf)
 - **[Machine Translation] Translating with Bilingual Topic Knowledge for Neural Machine Translation**
