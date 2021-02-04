@@ -72,7 +72,7 @@ unsup_gen_for_cms_reasoning)
 	- Xiyan Fu (Nankai Univeristy) et al, In AAAI 2020. [\[pdf\]](https://aaai.org/ojs/index.php/AAAI/article/view/6277)
 - **[Summarization] A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features**
 	- Peng Cui (Harbin Institute of Technology) et al, In COLING 2020. [\[pdf\]](https://arxiv.org/abs/2010.06253)
-- <img src="images/code.png" width="20" align=center> **[Summarization] [A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features]**
+- <img src="images/code.png" width="20" align=center> **[Summarization] [Friendly Topic Assistant for Transformer Based Abstractive Summarization]**
 	- Zhengjue Wang (Xidian University) et al, In EMNLP 2020. [\[pdf\]]((https://www.aclweb.org/anthology/2020.emnlp-main.35.pdf)) [\[code\]](https://github.com/BoChenGroup/TA)
 - **[Machine Translation] Topic-Informed Neural Machine Translation**
 	- Jian Zhang, (Dublin City University) et al, In COLING 2016. [\[pdf\]](https://www.aclweb.org/anthology/C16-1170.pdf)
@@ -140,8 +140,6 @@ unsup_gen_for_cms_reasoning)
 	- Shiquan Yang (University of Melbourne) et al, In EMNLP 2020. [\[pdf\]](https://arxiv.org/pdf/2010.01447.pdf) [\[code (tf)\]](https://github.com/shiquanyang/GraphDialog)
 - **[Dialogue System] CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts** 
 	- Peixiang Zhong (Nanyang Technological University) et al, In AAAI 2021. [\[pdf\]](https://arxiv.org/abs/2012.08377) 
-- **[Dialogue System] Keyword-Guided Neural Conversational Model** 
-	- Peixiang Zhong (Nanyang Technological University) et al, In AAAI 2021. [\[pdf\]](https://arxiv.org/abs/2012.08383) 
 - **[Dialogue System] Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation**
     - Shuai Lin (Sun Yat-sen University) et al, In AAAI 2021. [\[pdf\]](https://arxiv.org/abs/2012.11988) [\[code (torch)\]](https://github.com/ha-lins/GEML-MDG) 
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> **[Question Answering] Commonsense for Generative Multi-Hop Question Answering Tasks** 
