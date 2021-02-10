@@ -1,7 +1,7 @@
 # Knowledge-enriched Text Generation Reading-List
 
 Here is a list of recent publications about **Knowledge-enhanced text generation**.
-(Update on **Feb 9th, 2021**) <br>
+(Update on **Feb 10th, 2021**) <br>
 
 -- We will continue to add and update related papers and codes on this page.
 
