@@ -13,7 +13,7 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 
 > To the best of our knowledge, our survey is the first work that presents a comprehensive reviewof knowledge-enhanced text generation. It aims to provide NLG researchers a synthesis and pointer to related researches. Our survey also includes a detailed discussion about how NLG can benefit from recent progress in deep learning and artificial intelligence, including technologies such as graph neural network, reinforcement learning, neural topic modeling and so on.
 
-### Citation
+### Please consider cite our survey if you found it is useful.
 
 ```
 @article{yu2020survey,
