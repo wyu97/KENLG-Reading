@@ -9,13 +9,24 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 
 ## <img src="images/new.png" width="25" align=center> Survey paper
 
-[**A Survey of knoweldge-enhanced Text Generation**](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). arXiv. 2010.04389
+[**A Survey of Knowledge-enhanced Text Generation**](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). arXiv. 2010.04389
 
 > To the best of our knowledge, our survey is the first work that presents a comprehensive reviewof knowledge-enhanced text generation. It aims to provide NLG researchers a synthesis and pointer to related researches. Our survey also includes a detailed discussion about how NLG can benefit from recent progress in deep learning and artificial intelligence, including technologies such as graph neural network, reinforcement learning, neural topic modeling and so on.
 
+### Citation
+
+```
+@article{yu2020survey,
+  title={A Survey of Knowledge-Enhanced Text Generation},
+  author={Yu, Wenhao and Zhu, Chenguang and Li, Zaitang and Hu, Zhiting and Wang, Qingyun and Ji, Heng and Jiang, Meng},
+  journal={arXiv preprint arXiv:2010.04389},
+  year={2020}
+}
+```
+
 ## <img src="images/new.png" width="25" align=center> Tutorial
 
-We will give a tutorial on the topic of [**Knoweldge-enriched Text Generation**]() in [**EMNLP 2021**](https://2021.emnlp.org/). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
+We will give a tutorial on the topic of [**Knowledge-enriched Text Generation**]() in [**EMNLP 2021**](https://2021.emnlp.org/). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
 
 
 ## Basic NLG papers and codes
@@ -222,16 +233,6 @@ unsup_gen_for_cms_reasoning)
 - <img src="images/code.png" width="20" align=center> **[KG + Data-to-text pretraining] KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation** 
 	- Wenhu Chen (University of California, Santa Barbara) et al, In EMNLP 2020. [\[pdf\]](https://www.aclweb.org/anthology/2020.emnlp-main.697.pdf) [\[code (torch)\]](https://github.com/wenhuchen/KGPT)
 
-## Citation
-
-```
-@article{yu2020survey,
-  title={A Survey of Knowledge-Enhanced Text Generation},
-  author={Yu, Wenhao and Zhu, Chenguang and Li, Zaitang and Hu, Zhiting and Wang, Qingyun and Ji, Heng and Jiang, Meng},
-  journal={arXiv preprint arXiv:2010.04389},
-  year={2020}
-}
-```
 
 ## Acknowledgement
 
