@@ -26,7 +26,7 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 
 ## <img src="images/new.png" width="25" align=center> Tutorial
 
-We will give a tutorial on the topic of [**Knowledge-enriched Text Generation**]() in [**EMNLP 2021**](https://2021.emnlp.org/). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
+We will give a tutorial on the topic of [**Knowledge-enriched Text Generation**](https://kenlg-tutorial.github.io/) in [**EMNLP 2021**](https://2021.emnlp.org/tutorials). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
 
 
 ## Basic NLG papers and codes
