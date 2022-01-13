@@ -9,7 +9,7 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 
 ## <img src="images/new.png" width="25" align=center> Survey paper
 
-[**A Survey of Knowledge-enhanced Text Generation**](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). arXiv. 2010.04389
+[**A Survey of Knowledge-enhanced Text Generation**](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). ACM Computing Survey, 2022 (in press).
 
 > To the best of our knowledge, our survey is the first work that presents a comprehensive reviewof knowledge-enhanced text generation. It aims to provide NLG researchers a synthesis and pointer to related researches. Our survey also includes a detailed discussion about how NLG can benefit from recent progress in deep learning and artificial intelligence, including technologies such as graph neural network, reinforcement learning, neural topic modeling and so on.
 
@@ -19,14 +19,16 @@ Here is a list of recent publications about **Knowledge-enhanced text generation
 @article{yu2020survey,
   title={A Survey of Knowledge-Enhanced Text Generation},
   author={Yu, Wenhao and Zhu, Chenguang and Li, Zaitang and Hu, Zhiting and Wang, Qingyun and Ji, Heng and Jiang, Meng},
-  journal={arXiv preprint arXiv:2010.04389},
+  journal={ACM Computing Survey (CSUR)},
   year={2020}
 }
 ```
 
 ## <img src="images/new.png" width="25" align=center> Tutorial
 
-We will give a tutorial on the topic of [**Knowledge-enriched Text Generation**](https://kenlg-tutorial.github.io/) in [**EMNLP 2021**](https://2021.emnlp.org/tutorials). It will be held from Nov. 7th to Nov. 11th, 2021. Hope to see you in Dominican Republic.
+We have given a tutorial on the topic of [**Knowledge-enriched Text Generation**](https://kenlg-tutorial.github.io/) in [**EMNLP 2021**](https://2021.emnlp.org/tutorials). It was held from Nov. 7th to Nov. 11th, 2021, in Dominican Republic. Check out the materials [here](https://kenlg-tutorial.github.io/).
+
+We will also present a tutorial on a broader topic of [**Knowledge-augmented Methods for NLP**](https://kenlg-tutorial.github.io/) in [**ACL 2022**](https://www.2022.aclweb.org/). It will be held from May. 22nd to Nov. 27th, 2022, in Ireland! Stay tuned for more information!
 
 
 ## Basic NLG papers and codes
