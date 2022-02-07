@@ -4,17 +4,17 @@
 
 This repository contains a list of tutorials, papers, codes, datasets, leaderboards on the topic of **Knowledge-enhanced text generation**. If you found any error, please don't hesitate to open an issue or pull request.
 
--- We will continue to add and update related papers and codes on this page (Update on **July 4th, 2021**).
+-- We will continue to add and update related papers and codes on this page (Update on **Feb 5th, 2022**).
 
 -- <img src="images/code.png" width="20" align=center> indicates available code and <img src="images/hot.png" width="20" align=center> indicates high citation in recent years.
 
 ## <img src="images/new.png" width="25" align=center> Survey paper
 
-[**A Survey of Knowledge-enhanced Text Generation**](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). ACM Computing Survey, 2022.
+[**A Survey of Knowledge-enhanced Text Generation**](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). ACM CSUR, 2022.
 
 > To the best of our knowledge, our survey is the first work that presents a comprehensive reviewof knowledge-enhanced text generation. It aims to provide NLG researchers a synthesis and pointer to related researches. Our survey also includes a detailed discussion about how NLG can benefit from recent progress in deep learning and artificial intelligence, including technologies such as graph neural network, reinforcement learning, neural topic modeling and so on.
 
-### If you find this repository helpful for your work, please kindly cite the following paper. The Bibtex are listed below:
+#### If you find this repository helpful for your work, please kindly cite the following paper. The Bibtex are listed below:
 
 ```
 @article{yu2022survey,
@@ -39,7 +39,7 @@ We will also present a tutorial on a broader topic of [**Knowledge-augmented Met
 
 - **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**, on arXiv 2021. [\[pdf\]](https://arxiv.org/pdf/2107.13586.pdf)
 
-- **Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey**, in ACM TIST 2021. [\[pdf\]](https://dl.acm.org/doi/10.1145/3464377)
+- **Unstructured Text Enhanced Open-Domain Dialogue System: A Survey**, in ACM TIST 2021. [\[pdf\]](https://dl.acm.org/doi/10.1145/3464377)
 
 - **A Survey on Retrieval-Augmented Text Generation**, on arXiv 2022. [\[pdf\]](https://arxiv.org/pdf/2202.01110.pdf)
 
