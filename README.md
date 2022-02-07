@@ -14,7 +14,7 @@ This repository contains a list of tutorials, papers, codes, datasets, leaderboa
 
 > To the best of our knowledge, our survey is the first work that presents a comprehensive reviewof knowledge-enhanced text generation. It aims to provide NLG researchers a synthesis and pointer to related researches. Our survey also includes a detailed discussion about how NLG can benefit from recent progress in deep learning and artificial intelligence, including technologies such as graph neural network, reinforcement learning, neural topic modeling and so on.
 
-#### If you find this repository helpful for your work, please kindly cite the following paper. The Bibtex are listed below:
+#### If you find this repository helpful for your work, please kindly cite the following paper.
 
 ```
 @article{yu2022survey,
