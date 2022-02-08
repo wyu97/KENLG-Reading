@@ -182,7 +182,7 @@ unsup_gen_for_cms_reasoning)
 
 - **[Commonsense Generation] Retrieval Enhanced Model for Commonsense Generation**, in ACL Findings 2021. [\[pdf\]](https://arxiv.org/pdf/2105.11174.pdf)
 
-- **[Commonsense Generation] KFCNet: Knowledge Filtering and Contrastive Learning Network for Generative Commonsense Reasoning, in EMNLP Findings 2021. [\[pdf\]](https://arxiv.org/pdf/2109.06704.pdf)
+- **[Commonsense Generation] KFCNet: Knowledge Filtering and Contrastive Learning Network for Generative Commonsense Reasoning**, in EMNLP Findings 2021. [\[pdf\]](https://arxiv.org/pdf/2109.06704.pdf)
 
 - **[Paraphrase] Paraphrase Generation by Learning How to Edit from Samples**, in ACL 2020. [\[pdf\]](https://www.aclweb.org/anthology/2020.acl-main.535.pdf)
 
