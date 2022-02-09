@@ -25,7 +25,7 @@ This repository contains a list of tutorials, papers, codes, datasets, leaderboa
 }
 ```
 
-## <img src="images/new.png" width="25" align=center> Tutorials [\[video\]](https://underline.io/lecture/45993-live-session---t3--knowledge-enriched-natural-language-generation).** text</span>
+## <img src="images/new.png" width="25" align=center> Tutorials [\[video\]](https://underline.io/lecture/45993-live-session---t3--knowledge-enriched-natural-language-generation)
 
 We have given a tutorial on the topic of [**Knowledge-enriched Text Generation**](https://kenlg-tutorial.github.io/) in [**EMNLP 2021**](https://2021.emnlp.org/tutorials). It was held from Nov. 7th to Nov. 11th, 2021, in Dominican Republic. Check out the materials [\[here\]](https://kenlg-tutorial.github.io/).
 
