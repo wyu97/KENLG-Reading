@@ -29,7 +29,7 @@ This repository contains a list of tutorials, papers, codes, datasets, leaderboa
 
 We have given a tutorial on the topic of [**Knowledge-enriched Text Generation**](https://kenlg-tutorial.github.io/) in [**EMNLP 2021**](https://2021.emnlp.org/tutorials). It was held from Nov. 7th to Nov. 11th, 2021, in Dominican Republic. Check out the materials [\[here\]](https://kenlg-tutorial.github.io/).
 
-We will also present a tutorial on a broader topic of [**Knowledge-augmented Methods for NLP**](https://kenlg-tutorial.github.io/) in [**ACL 2022**](https://www.2022.aclweb.org/). It will be held from May. 22nd to Nov. 27th, 2022, in Ireland! Stay tuned for more information!
+We will also present a tutorial on a broader topic of [**Knowledge-augmented Methods for NLP**](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial) in [**ACL 2022**](https://www.2022.aclweb.org/). It will be held from May. 22nd to Nov. 27th, 2022, in Ireland! Check out the materials [\[here\]](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial).
 
 ## Other related surveys
 
